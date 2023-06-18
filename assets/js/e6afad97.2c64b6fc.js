@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9759],{25:e=>{e.exports=JSON.parse('{"label":"dui","permalink":"/blog/tags/dui","allTagsPath":"/blog/tags","count":1}')}}]);
